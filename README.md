@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Let’s connect:
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/bhavyasuvarna/)) *(Add your LinkedIn link)*
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-here](https://www.linkedin.com/in/bhavyasuvarna/) *(Add your LinkedIn link)*
 
 ---
 
